@@ -1,0 +1,18 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "footprinting-enumeration",
+  "version": "0.1.0",
+  "description": "Curso completo de footprinting/enumeración (HTB Academy): principios, metodología de 6 capas, OSINT pasivo y enumeración de servicios de infraestructura y bases de datos con nmap y OODA, en laboratorios autorizados. Incluye guías de steering de nmap por fase (descubrimiento de hosts, escaneo de puertos, detección de servicios, NSE, rendimiento, evasión de firewall/IDS, salida y reportes).",
+  "author": {
+    "name": "Proyecto educativo Ethical Hacking"
+  },
+  "keywords": [
+    "footprinting",
+    "enumeration",
+    "nmap",
+    "reconnaissance",
+    "osint",
+    "pentest",
+    "ethical-hacking"
+  ]
+}
